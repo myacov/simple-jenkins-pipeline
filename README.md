@@ -34,6 +34,7 @@ Version: 3.9.3
 ## Jenkinsfile contains pipeline as code
 ### In Jenkins :
 New Item / Create a job
-Name: simple-pac
-- [ ] Freestyle project
-- [x] Pipline
+- Name: simple-pac
+- type
+    - [ ] Freestyle project
+    - [x] Pipline

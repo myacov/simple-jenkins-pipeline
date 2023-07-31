@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Fetch code') {
             steps {
-                git branch: 'main', url: 'https://github.com/myacov/simple-jenkins-pipeline.git'
+                git branch: 'paac', url: 'https://github.com/devopshydclub/vprofile-project.git'
             }
         }
         stage('Build') {
