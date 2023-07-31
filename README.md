@@ -32,8 +32,8 @@ Version: 3.9.3
 2. Pipeline Maven Integration
 
 ## Jenkinsfile contains pipeline as code
-## In Jenkins :
+### In Jenkins :
 New Item / Create a job
-    Name: simple-pac
-    [ ] Freestyle project
-    [x] Pipline
+Name: simple-pac
+- [ ] Freestyle project
+- [x] Pipline
